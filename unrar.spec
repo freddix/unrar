@@ -1,7 +1,7 @@
 Summary:	unRAR - extract, test and view RAR archives
 Name:		unrar
 Version:	4.2.4
-Release:	1
+Release:	2
 License:	Freeware
 Group:		Applications/Archiving
 #Source0Download: http://www.rarlab.com/rar_add.htm
